@@ -1,1 +1,1 @@
-PW Skills Data Analytics Course Statistics Assignment.
+Statistics Assignment.
